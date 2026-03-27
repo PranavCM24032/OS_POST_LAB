@@ -1,0 +1,17 @@
+# Python environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Workspace / Editor artifacts
+.vscode/
+.idea/
+.DS_Store
+
+# Temporary files
+/tmp/
+
+# Laboratory artifacts (if any)
+OS/
+*.docx
